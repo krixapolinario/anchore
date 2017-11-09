@@ -1,3 +1,5 @@
+Fork from original
+
 FROM php:5.6-apache
 
 # install the PHP extensions we need
